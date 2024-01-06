@@ -1,0 +1,14 @@
+D:\Projects\PaiJam\bin\Debug\net8.0\PaiJam.exe
+D:\Projects\PaiJam\bin\Debug\net8.0\PaiJam.deps.json
+D:\Projects\PaiJam\bin\Debug\net8.0\PaiJam.runtimeconfig.json
+D:\Projects\PaiJam\bin\Debug\net8.0\PaiJam.dll
+D:\Projects\PaiJam\bin\Debug\net8.0\PaiJam.pdb
+D:\Projects\PaiJam\obj\Debug\net8.0\PaiJam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PaiJam\obj\Debug\net8.0\PaiJam.AssemblyInfoInputs.cache
+D:\Projects\PaiJam\obj\Debug\net8.0\PaiJam.AssemblyInfo.cs
+D:\Projects\PaiJam\obj\Debug\net8.0\PaiJam.csproj.CoreCompileInputs.cache
+D:\Projects\PaiJam\obj\Debug\net8.0\PaiJam.dll
+D:\Projects\PaiJam\obj\Debug\net8.0\refint\PaiJam.dll
+D:\Projects\PaiJam\obj\Debug\net8.0\PaiJam.pdb
+D:\Projects\PaiJam\obj\Debug\net8.0\PaiJam.genruntimeconfig.cache
+D:\Projects\PaiJam\obj\Debug\net8.0\ref\PaiJam.dll
